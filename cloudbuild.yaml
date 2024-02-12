@@ -14,5 +14,5 @@ steps:
     args: ['build', '-t', 'gcr.io/$PROJECT_ID/housekeeping-management', '.']
 
 images:
-  - 'gcr.io/$PROJECT_ID/your-image-name'
+  - 'gcr.io/$PROJECT_ID/housekeeping-management'
 
